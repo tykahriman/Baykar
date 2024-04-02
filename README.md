@@ -2,7 +2,7 @@
 <h2> Baykar Manual, Automation and Load/Performance Tests </h2>
 <hr>
 
-This repo contains manual test documents, load/performance tests and automation codes of Baykar Kariyer site. <br> <hr>
+This repo contains manual test documents, load/performance tests and automation codes of Baykar Career site. <br> <hr>
 
 <h3> Project Structure </h3>
 
