@@ -10,5 +10,5 @@ This repo contains manual test documents, load/performance tests and automation 
 <h4>src/test :</h4> Automation codes can be accessed from this folder and you can run these codes. <br>
 <hr>
 
-# https://kariyer.baykartech.com/ #Tests Documents 
+#https://kariyer.baykartech.com/ #Tests Documents 
 <hr>
